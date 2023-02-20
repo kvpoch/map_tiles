@@ -1,7 +1,7 @@
 
 
 # Generating Map Tiles of Washington 
-![Web Map Link of King County area of Washington State](https://kvpoch.github.io/map_tiles/)
+[Web Map Link of King County area of Washington State](https://kvpoch.github.io/map_tiles/)
 
 
 
